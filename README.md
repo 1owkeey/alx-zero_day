@@ -1,1 +1,1 @@
-My first readme
+Alx, my new school
